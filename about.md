@@ -12,7 +12,7 @@ No.59 ZhongGuanCun Street, Haidian District, Beijing 100872, P.R. China.
 
 **Advisor**: Prof. [Wenzhen Lai](http://chem.ruc.edu.cn/szll/zzjs/wzjgzx/lwz_903ff1121c0649e59bf0c6aa0cb6834e/69c79f1e6a35433a88d24b1afb37b05c.htm)
 
-## **<font color=Blue>Education<font>**
+## <font color=Blue>**Education**<font>
 * 9/2021—present M.S., Physical Chemistry in Renmin University of China
 * 9/2017—6/2021 B.S., Chemistry in Northeast Petroleum University
 * 
