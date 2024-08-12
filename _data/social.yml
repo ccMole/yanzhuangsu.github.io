@@ -1,7 +1,6 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
-  #icon: fas fa-envelope
-  icon: fas fa-apple
+  url: mailto://yanzhuangsu@outlook.com
+  icon: fas fa-envelope
 - title: Twitter
   url: https://twitter.com/vszhub
   icon: fab fa-twitter
